@@ -6,3 +6,8 @@ Grant McKenzie
 Kevin Ofori-Kwafo  
 Ezer Ouoba  
 Ponjul Shedul
+
+
+## Team Documents
+
+- [Team Contract](team-contract.md)
