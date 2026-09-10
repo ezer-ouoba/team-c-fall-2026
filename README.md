@@ -1,4 +1,4 @@
-# team-c-fall-2026
+# Team-C-fall-2026
 
 John Cho  
 Wilson Hornbaker  
