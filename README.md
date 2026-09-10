@@ -1,3 +1,8 @@
 # team-c-fall-2026
 
-John Cho\nWilson Hornbaker\nGrant McKenzie\nKevin Ofori-Kwafo\nEzer Ouoba\nPonjul Shedul
+John Cho  
+Wilson Hornbaker  
+Grant McKenzie  
+Kevin Ofori-Kwafo  
+Ezer Ouoba  
+Ponjul Shedul
